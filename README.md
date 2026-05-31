@@ -17,3 +17,5 @@ Implemented CI/CD pipeline using GitHub Actions.
 - Node.js
 - Docker
 - Docker Hub
+
+CI/CD pipeline updated
